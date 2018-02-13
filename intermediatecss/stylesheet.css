@@ -1,0 +1,115 @@
+html {
+  font-size: 62.5%;
+}
+
+Body {
+   font-family: 'Josefin Slab', serif;
+   background-color: #37592c;
+    font-size: 2.0rem;
+}
+
+Header {
+   font-family: 'Homemade Apple', cursive;
+   background-color: #37592c;
+    font-size: 1.0rem ;
+    color: #ffffff; 
+}
+
+Main {
+   font-family: 'Homemade Apple', cursive;
+   background-color: #cbffad;
+    font-size: 1.0rem ;
+    color: #ffffff;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+Aside {
+   background-color: white;
+    font-size: 1.0rem ;
+    color: #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 2px solid white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 4px #888888;
+}
+
+Footer {
+   background-color: #37592c;
+    font-size: .65rem ;
+    color: white;
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21; 
+}
+
+
+h2, h3, h4 {
+    background-color: white;
+    color: #37592c;
+    display: block;
+    width: 40%;
+    text-align: center;
+    }
+    
+h1 {    
+background-image:
+  linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0,0,255,0.5)),
+  url(https://previews.123rf.com/images/robertsrob/robertsrob1501/robertsrob150100079/35414878-green-grass-and-stack-of-stones-natural-background-with-selective-focus.jpg);
+    background-size: 5 px:
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    color: #37592c;    
+}
+
+    
+Ul {
+    background-color: #37592c;
+    font-size: 1.3rem ;
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
+P {
+    font-size: 1.3rem ;
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+A {
+    font-size: 1.3rem ;
+    color: white;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.special {
+    font-size: 2.3rem;
+    color: pink;
+}
+
+
